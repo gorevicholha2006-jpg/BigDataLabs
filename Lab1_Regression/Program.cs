@@ -10,8 +10,8 @@ while (true)
 {
     Console.WriteLine();
     Console.WriteLine("=== Меню ===");
-    Console.WriteLine("1. Натренувати нову модель");
-    Console.WriteLine("2. Завантажити вже натреновану модель");
+    Console.WriteLine("1. Натренувати модель");
+    Console.WriteLine("2. Завантажити модель");
     Console.WriteLine("0. Вийти");
     Console.Write("Оберіть пункт: ");
 
