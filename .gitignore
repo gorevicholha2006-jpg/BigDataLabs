@@ -1,0 +1,6 @@
+**/bin/
+**/obj/
+._*
+.DS_Store
+*.zip
+**/model/
