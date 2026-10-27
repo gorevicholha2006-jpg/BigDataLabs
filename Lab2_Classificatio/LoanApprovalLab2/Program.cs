@@ -3,9 +3,6 @@ using System.Text;
 using Microsoft.ML;
 using Microsoft.ML.Data;
 
-// Лабораторна робота №2: прогнозування схвалення кредиту (ML.NET).
-// Для навчання використовуйте розмічений файл Kaggle, що має колонку Loan_Status.
-
 Console.OutputEncoding = Encoding.UTF8;
 
 try
